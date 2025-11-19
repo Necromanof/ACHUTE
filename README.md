@@ -1,6 +1,10 @@
 # **ACHUTE**
 
 ## <ins>**Description :**</ins>
-<span style="color: #FF5733 "> Application de gestion des dangers et des chutes (avalanches, moto, personnes âgées). ProtégerNosRoutes. </span>
+<p>
+  <span style="color:#1E90FF; font-weight:bold;">
+    Application de gestion des dangers et des chutes (avalanches, moto, personnes âgées).
+  </span>
+</p>
 
 
